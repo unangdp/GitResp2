@@ -3,4 +3,5 @@ public class Person {
     private String name;
     private double height;
     private String doctor;
+	private String job;
 }
